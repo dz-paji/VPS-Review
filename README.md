@@ -11,6 +11,10 @@
 
 欢迎任何 Pull requests，如果有什么意见 / 建议也可以直接开 issue 提出。我会认真思考每一个 issue.
 
+## 命名格式
+
+repository 的根目录的文件夹对应商家的名称，而在其目录下的文件，即为该商家的 VPS 的评测。文件名对应的是商家的不同产品。
+
 ## 来源
 
 * [HostEvaluate](https://t.me/HostEvaluate)
