@@ -1,2 +1,18 @@
 # VPS-Review
-If you are looking for a VPS, here might have the review of your choice. Maybe Chinese only.
+
+如果你在考虑购置 VPS，来看看这里吧，说不定会包含你的选择的评测的。
+
+## 简单说明
+
+该项目主要归档 VPS 的评测内容，以更方便各位去检索，参考。每个评测都会标注来源，而所有来源也可在下方找到，感谢各位大佬们对此项目的支持~
+如果未标明出处，那就是我自己写的 XD
+
+---
+
+欢迎任何 Pull requests，如果有什么意见 / 建议也可以直接开 issue 提出。我会认真思考每一个 issue.
+
+## 来源
+
+*[HostEvaluate](https://t.me/HostEvaluate)
+
+再次感谢你们对这个项目的支持!
